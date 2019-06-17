@@ -1,2 +1,3 @@
 my name is pooja
 /usr/bin/bash: wq:: command not found
+gargiiiiiiiii
